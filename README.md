@@ -3,6 +3,7 @@
 git clone https://github.com/A-jota07/Azure-Databricks-Exercises.git
 
 Azure-Databricks-Exercises/
+
 ├── README.md                         # Documentação geral do repositório
 
 ├── provisioning/                     # Instruções para provisionar recursos no Azure Databricks
@@ -14,6 +15,7 @@ Azure-Databricks-Exercises/
 ├── spark-exercises/                  # Scripts e dados para análise com Apache Spark
 
 │   ├── data-analysis/
+
 │   │   ├── example-dataset.csv       # Conjunto de dados de exemplo para análise
 
 │   │   ├── spark-analysis.py         # Script Python para análise Spark
